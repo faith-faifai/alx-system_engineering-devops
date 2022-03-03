@@ -1,1 +1,1 @@
-Readme file
+ #!/bin/bash su betty
